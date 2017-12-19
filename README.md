@@ -35,5 +35,5 @@ http://numbersapi.com/3/math will return a fact related to number "3" for catego
 
 ## Deployment
 
-![alt text](https://github.com/manjeet-thadani/Temperature-Detector/blob/master/Extras/Images/app01.png)		
-![alt text](https://github.com/manjeet-thadani/Temperature-Detector/blob/master/Extras/Images/app02.png)
+![alt text](https://github.com/manjeet-thadani/What-Number-Says/blob/master/Extras/S1.png)		
+![alt text](https://github.com/manjeet-thadani/What-Number-Says/blob/master/Extras/S2.png
