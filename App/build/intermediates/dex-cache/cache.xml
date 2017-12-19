@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/manjeet/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/0f41282669cbd81352ab78c3642b6f89/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/media/manjeet/5A66CEF666CED1C5/Projects/Android/Completed/Appathon Season 2/Techgig/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manjeet/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/9877a525dc46358c3d81b59fb7571a33/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/media/manjeet/5A66CEF666CED1C5/Projects/Android/Completed/Appathon Season 2/Techgig/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manjeet/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/43ec6e73084707a40029cf88be34070f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/media/manjeet/5A66CEF666CED1C5/Projects/Android/Completed/Appathon Season 2/Techgig/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manjeet/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/47d8c5456328077056e3867d02794830/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/media/manjeet/5A66CEF666CED1C5/Projects/Android/Completed/Appathon Season 2/Techgig/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+
+</items>
