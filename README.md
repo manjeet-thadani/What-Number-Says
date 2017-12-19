@@ -17,13 +17,23 @@ This App tells facts about numbers. Facts can be received from API and can be di
 
 ## Facts for the above mentioned category can be received in two ways from API:
 
-	1. Random Facts API - API selects a random number and returns a fact related to that category. For eg: http://numbersapi.com/random/math will return a random fact related to mathematics.
+	1. Random Facts API - API selects a random number and returns a fact related to that category. For eg: 
+```
+http://numbersapi.com/random/math will return a random fact related to mathematics.
 
-	2. Specific Facts API - This returns a fact related to number related to that category. For eg: http://numbersapi.com/3/math will return a fact related to number "3" for category "math"
+```
 
+	2. Specific Facts API - This returns a fact related to number related to that category. For eg: 
+```
+http://numbersapi.com/3/math will return a fact related to number "3" for category "math"
+
+```
 ## Deliverables:
 
     * All the necessary source files and app.
     * A short presentation containing description of solution.
 
+## Deployment
 
+![alt text](https://github.com/manjeet-thadani/Temperature-Detector/blob/master/Extras/Images/app01.png)		
+![alt text](https://github.com/manjeet-thadani/Temperature-Detector/blob/master/Extras/Images/app02.png)
